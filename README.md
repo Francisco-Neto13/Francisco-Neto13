@@ -1,6 +1,6 @@
 ## 🍃 Francisco 
 
-Olá! Meu nome é José Francisco, tenho 20 anos e sou estudante de Ciência da Computação na UNIMA-AFYA/AL. Desde criança, me interesso por tecnologia, mas foi entre 2018 e 2019 que comecei a pesquisar mais a fundo sobre o assunto. Fiquei fascinado e decidi que seguiria carreira nessa área, buscando sempre aprimorar meus conhecimentos e inovar em tudo que envolva tecnologia. Pretendo utilizar o Git para armazenar meus projetos e ideias, mantendo tudo organizado em um só lugar. Assim, no futuro, poderei acompanhar minha evolução e continuar aprendendo.
+Olá! Meu nome é José Francisco, tenho 20 anos e sou estudante de Ciência da Computação na UNIMA-AFYA/AL. Desde criança, me interesso por tecnologia, mas foi entre 2018 e 2019 que comecei a pesquisar mais a fundo sobre o assunto. Fiquei fascinado e decidi que seguiria carreira nessa área, buscando sempre aprimorar meus conhecimentos e inovar em tudo que envolva tecnologia. Decidi utilizar o GitHub e o Git em 2025 para armazenar meus projetos e ideias, mantendo tudo organizado em um só lugar. Assim, no futuro, poderei acompanhar minha evolução e continuar aprendendo.
 
 <h3>Tecnologias que eu uso</h3>
 <div style="display: flex; flex-wrap: wrap;">

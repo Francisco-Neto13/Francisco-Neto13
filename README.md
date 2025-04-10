@@ -15,5 +15,5 @@ Olá! Meu nome é José Francisco, tenho 20 anos e sou estudante de Ciência da 
 <h3>Tecnologias que estou aprendendo</h3>
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse">
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="Eclipse">
 </div>

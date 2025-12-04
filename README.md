@@ -45,4 +45,3 @@ Meu nome é José Francisco, tenho 20 anos e sou estudante de Ciência da Comput
 ## Conecte-se comigo
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cisscoo_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](franciscoaneto13@gmail.com)

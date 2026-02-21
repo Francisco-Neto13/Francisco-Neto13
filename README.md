@@ -1,13 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Francisco+Neto;Desenvolvedor+Web;Front-end+Moderno;Integração+Full-Stack)](https://portfolio-three-gold-45.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Francisco+Neto;Desenvolvedor+Web;Front-end;Integração+Full-Stack)](https://portfolio-three-gold-45.vercel.app/)
 
 ---
 
 ### Sobre Mim
 
-Sou **Desenvolvedor Web** com foco em front-end moderno, criando interfaces responsivas e com boa experiência de usuário utilizando React, Next.js e TypeScript.
-Tenho conhecimento em back-end e banco de dados, o que me permite integrar soluções full-stack quando necessário.
+Sou **Desenvolvedor Web** com foco em front-end, criando interfaces responsivas e com ótima experiência de usuário utilizando React, Next.js e TypeScript. Possuo conhecimento em back-end e banco de dados, o que me permite integrar soluções full-stack quando necessário.
 
 <br/>
 
@@ -59,7 +58,7 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 
 ### Conecte-se comigo
 
-Sempre aberto a novas conexões, seja para colaborar em algo, trocar experiências ou simplesmente se conhecer. Me encontre por aqui:
+Se quiser me conhecer melhor, o portfolio é o melhor lugar para começar. Para o restante, estou por aqui:
 
 [![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-three-gold-45.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfrancisco-neto/)

@@ -1,14 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Francisco+Neto;Desenvolvedor+Web;Front-end;Integração+Full-Stack)](https://portfolio-three-gold-45.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Francisco+Neto;Frontend+Developer)](https://portfolio-three-gold-45.vercel.app/)
 
 ---
 
 ### Sobre Mim
 
-Sou **Desenvolvedor Web** com foco em front-end, criando interfaces responsivas e com ótima experiência de usuário utilizando React, Next.js e TypeScript. Possuo conhecimento em back-end e banco de dados, o que me permite integrar soluções full-stack quando necessário.
-
-<br/>
+Sou **Desenvolvedor Frontend** com foco em React e Next.js, com experiência crescente em backend — banco de dados, autenticação, storage e deploy. Construo produtos completos do protótipo ao ar.
 
 Cursando **Ciência da Computação** na UNIMA-AFYA/AL.
 <br/>
@@ -33,6 +31,7 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Ferramentas & Outros**
 
@@ -45,7 +44,7 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 
 **Atualmente estudando**
 
-`Prisma` • `Zod` • `MongoDB`
+`Zod` • `MongoDB`
 
 ---
 

@@ -1,15 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=80&lines=Francisco+Neto;Frontend+Developer)](https://portfolio-three-gold-45.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Francisco+Neto;AI+%26+Fullstack+Developer)](https://portfolio-three-gold-45.vercel.app/)
 
 ---
 
 ### Sobre Mim
 
-Sou **Desenvolvedor Frontend** com foco em React e Next.js, com experiência crescente em backend — banco de dados, autenticação, storage e deploy. Construo produtos completos do protótipo ao ar.
+Sou **AI & Fullstack Developer** — transformo ideias em produtos reais, do protótipo ao deploy. Atualmente construindo automações e agentes de IA que ajudam empresas a escalar processos.
 
 Cursando **Ciência da Computação** na UNIMA-AFYA/AL.
+
 <br/>
+
 Documentando minha evolução e projetos aqui no GitHub desde 2025.
 
 ---
@@ -29,20 +31,28 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 **Back-end & Banco de Dados**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Ferramentas & Validação**
+**IA & Automações**
 
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Dify](https://img.shields.io/badge/Dify-000000?style=for-the-badge&logoColor=white)
+![Typebot](https://img.shields.io/badge/Typebot-7C3AED?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+**Ferramentas**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 

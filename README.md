@@ -60,15 +60,3 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=francisco-neto13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=francisco-neto13&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true"/>
-
----
-
-### Conecte-se comigo
-
-Se quiser me conhecer melhor, o portfolio é o melhor lugar para começar. Para o restante, estou por aqui:
-
-[![Portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-three-gold-45.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jfrancisco-neto/)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cisscoo_)
-
-</div>

@@ -1,12 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=80&amp;lines=Francisco+Neto;AI+%26+Fullstack+Developer)](https://portfolio-three-gold-45.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=80&amp;lines=Francisco+Neto;Fullstack+Developer+%C2%B7+AI+Automation)](https://portfolio-three-gold-45.vercel.app/)
 
 ---
 
 ### Sobre Mim
 
-Sou **AI & Fullstack Developer** — transformo ideias em produtos reais, do protótipo ao deploy. Atualmente construindo automações e agentes de IA que ajudam empresas a escalar processos.
+Sou **Fullstack Developer · AI Automation** — transformo ideias em produtos reais, do protótipo ao deploy. Atualmente construindo automações e agentes de IA que ajudam empresas a escalar processos pelo WhatsApp.
 
 Cursando **Ciência da Computação** na UNIMA-AFYA/AL.
 
@@ -60,3 +60,5 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=francisco-neto13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=francisco-neto13&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true"/>
+
+</div>

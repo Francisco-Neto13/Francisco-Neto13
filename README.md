@@ -61,8 +61,8 @@ Documentando minha evolução e projetos aqui no GitHub desde 2025.
 
 ### Estatísticas
 
-<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Francisco-Neto13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Francisco-Neto13&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Francisco-Neto13&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=Francisco-Neto13&theme=tokyonight&hide_border=true&background=0d1117"/>
 
 </div>
 
